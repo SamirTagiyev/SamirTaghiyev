@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SamirTagiyev
-- 👀 I’m interested in DEVOPS
-- 🌱 I’m currently learning phyton
+- 👋 Hi, I’m @SamirTaghiyev
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
